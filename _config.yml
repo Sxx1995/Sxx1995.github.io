@@ -17,7 +17,6 @@ plainwhite:
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
-include: ['_includes/social.html']
 
   # generate social links in footer
   social_links:
