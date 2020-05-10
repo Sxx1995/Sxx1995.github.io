@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Integrating razorpay into your webapp"
+title:  "My first Job"
 date:   2019-03-23 21:03:36 +0530
-categories: Javascript NodeJS
+categories:  NodeJS
 ---
 
-Hello World!
+      We develop a language-guided navigation task set in a continuous 3D environment where agents must execute low-level actions to follow natural language navigation directions. By being situated in continuous environments, this setting lifts a number of assumptions implicit in prior work that represents environments as a sparse graph of panoramas with edges corresponding to navigability. Specifically, our setting drops the presumptions of known environment topologies, short-range oracle navigation, and perfect agent localization. To contextualize this new task, we develop models that mirror many of the advances made in prior setting as well as single-modality baselines. While some of these techniques transfer, we find significantly lower absolute performance in the continuous setting 鈥?suggesting that performance in prior navigation-graph settings may be inflated by the strong implicit assumptions.
 
 ```javascript
 const Razorpay = require('razorpay');
