@@ -43,7 +43,7 @@ plainwhite:
 # - about.md
 
 # Build settings
-theme: modernlist
+theme: modernist
 
 plugins:
   - jekyll-seo-tag
