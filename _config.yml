@@ -21,9 +21,9 @@ include: ['_includes/social.html']
 
   # generate social links in footer
   social_links:
-    # twitter: thelehhman
+    twitter: thelehhman
     github:  thelehhman
-    # linkedIn: in/thelehhman
+    linkedIn: in/thelehhman
     gplus: thelehhman
     rss: rss
     # dribbble: jekyll
