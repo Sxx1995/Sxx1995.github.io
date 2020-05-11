@@ -5,7 +5,7 @@ date:   2020-7-18
 categories: DeepLearning ComputerVision VideoCaptioning
 ---
 
-```html
+
 ![main](/assets/img/vtt_main.png)
 
 <div class="grid-wrapper">
@@ -28,4 +28,4 @@ The explosion of video data on the Internet requires effective and efficient tec
     </div>
   </div>
 </div>
-```
+
