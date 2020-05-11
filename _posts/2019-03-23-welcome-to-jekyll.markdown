@@ -11,11 +11,9 @@ categories: DeepLearning ComputerVision VideoCaptioning
 
 ```
 
+![main](/assets/img/vtt_main.png)
 
 <div class="grid-wrapper">
-  <div class="profile center" style="grid-column: span 2; margin:auto;">
-      <img src="https://github.com/Sxx1995/Sxx1995.github.io/blob/master/assets/img/vtt_main.png">
-  </div>
   <div style="grid-column: span 3;">
     <p class="blue" style="margin-top:0px; margin-bottom:0px;">
       <b>Xiangxi Shi</b>
