@@ -8,10 +8,6 @@ categories: DeepLearning ComputerVision VideoCaptioning
 
 ![main](/assets/img/vtt_main.png)
 
-```javascript
-
-```
-
 <div class="grid-wrapper">
   <div style="grid-column: span 3;">
     <p class="blue" style="margin-top:0px; margin-bottom:0px;">
