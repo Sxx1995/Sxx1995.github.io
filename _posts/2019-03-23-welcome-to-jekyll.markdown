@@ -5,8 +5,12 @@ date:   2020-7-18
 categories: DeepLearning ComputerVision VideoCaptioning
 ---
 
-
+A video captioning project 
 ![main](/assets/img/vtt_main.png)
+
+```javascript
+
+```
 
 <div class="grid-wrapper">
   <div style="grid-column: span 3;">
