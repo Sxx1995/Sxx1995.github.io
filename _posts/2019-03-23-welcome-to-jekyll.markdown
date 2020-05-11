@@ -14,9 +14,7 @@ categories: DeepLearning ComputerVision VideoCaptioning
 
 <div class="grid-wrapper">
   <div class="profile center" style="grid-column: span 2; margin:auto;">
-    <a href="https://jacobkrantz.github.io/vlnce">
       <img src="https://github.com/Sxx1995/Sxx1995.github.io/blob/master/assets/img/vtt_main.png">
-    </a>
   </div>
   <div style="grid-column: span 3;">
     <p class="blue" style="margin-top:0px; margin-bottom:0px;">
