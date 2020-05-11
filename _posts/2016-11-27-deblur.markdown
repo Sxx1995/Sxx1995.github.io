@@ -1,12 +1,9 @@
 ---
 layout: post
-title:  "Watch It Twice: Video Captioning with a Refocused Video Encoder"
-date:   2019-10-15
-categories: DeepLearning ComputerVision VideoCaptioning
+title:  "An iterative method for optical flow estimation with motion blur"
+date:   2016-11-27
+categories: ImageProcessing ImageDebluring
 ---
-
-![main](/assets/img/RVE_intro.jpeg)
-
 
 <div class="grid-wrapper">
   <div style="grid-column: span 3;">
