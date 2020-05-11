@@ -1,11 +1,9 @@
 ---
 layout: post
-title:  "My first Job"
-date:   2019-03-23 21:03:36 +0530
-categories:  NodeJS
+title:  "Video Captioning with Boundary-aware Hierarchical Language Decoding and Joint Video Prediction"
+date:   2020-7-18 
+categories: DeepLearning ComputerVision VideoCaptioning
 ---
-
-      We develop a language-guided navigation task set in a continuous 3D environment where agents must execute low-level actions to follow natural language navigation directions. By being situated in continuous environments, this setting lifts a number of assumptions implicit in prior work that represents environments as a sparse graph of panoramas with edges corresponding to navigability. Specifically, our setting drops the presumptions of known environment topologies, short-range oracle navigation, and perfect agent localization. To contextualize this new task, we develop models that mirror many of the advances made in prior setting as well as single-modality baselines. While some of these techniques transfer, we find significantly lower absolute performance in the continuous setting 鈥?suggesting that performance in prior navigation-graph settings may be inflated by the strong implicit assumptions.
 
 
 
@@ -14,10 +12,29 @@ categories:  NodeJS
 ```
 
 
+<div class="grid-wrapper">
+  <div class="profile center" style="grid-column: span 2; margin:auto;">
+    <a href="https://jacobkrantz.github.io/vlnce">
+      <img src="{{ site.baseurl }}/assets/img/vtt-main.png">
+    </a>
+  </div>
+  <div style="grid-column: span 3;">
+    <p class="blue" style="margin-top:0px; margin-bottom:0px;">
+      <b>Xiangxi Shi</b>
+      &nbsp;&nbsp; <a href="https://www.ntu.edu.sg/home/asjfcai/" class="author-link">Jianfei Cai</a>
+      &nbsp;&nbsp; <a href="https://gujiuxiang.com/" class="author-link">Jiuxiang Gu</a>
+      &nbsp;&nbsp; <a href="https://raihanjoty.github.io/" class="author-link">Shafiq Joty</a>
+    </p>
+    <p style="margin-top:0px;"><i>ArXiv, 2020</i></p>
+    <p align="justify">
+The explosion of video data on the Internet requires effective and efficient technology to generate captions automatically for people, especially those who are visually impaired. Despite the great progress of video captioning research, particularly in video feature encoding, the language decoder is still largely based on the prevailing recurrent structure such as LSTM, which tends to prefer frequent words that align with the video and do not generalize well to new videos. In this paper, we propose a boundary-aware hierarchical language decoder for video captioning, which consists of a high-level decoder, working as a global (caption-level) language model, and a low-level decoder, working as a local (phrase-level) language model. Most importantly, we introduce a binary gate into the low-level language decoder to detect the phrasal boundaries. Together with other advanced components including a joint video prediction module, a shared soft attention, and a boundary-aware video encoding module, our integrated video captioning framework can discover hierarchical language information and distinguish the subjects from the objects of the verbs in a sentence, which are usually confusing during caption generation. Extensive experiments on two widely-used video captioning datasets, MSR-Video-to-Text (MSR-VTT) and YouTube-to-Text (MSVD), show that our method is highly competitive, compared with the state-of-the-art methods.
+    </p>
+    <div class="center">
+      <p>
+        <a class="link" href="https://arxiv.org/pdf/1807.03658.pdf">Paper</a>
+      | <a class="link" href="https://scholar.googleusercontent.com/scholar.bib?q=info:phndiI9iblAJ:scholar.google.com/&output=citation&scisdr=CgVaNFdhELbVx1mKsfs:AAGBfm0AAAAAXrmPqfvesnF0ye3hky2G9TsvPW2hssWE&scisig=AAGBfm0AAAAAXrmPqcFEZO8UveTfzfeZfLpjZiGOODMP&scisf=4&ct=citation&cd=-1&hl=en">Bibtex</a>
+      </p>
+    </div>
+  </div>
+</div>
 
-We develop a language-guided navigation task set in a continuous 3D environment where agents must execute low-level actions to follow natural language navigation directions. By being situated in continuous environments, this setting lifts a number of assumptions implicit in prior work that represents environments as a sparse graph of panoramas with edges corresponding to navigability. Specifically, our setting drops the presumptions of known environment topologies, short-range oracle navigation, and perfect agent localization. To contextualize this new task, we develop models that mirror many of the advances made in prior setting as well as single-modality baselines. While some of these techniques transfer, we find significantly lower absolute performance in the continuous setting 鈥?suggesting that performance in prior navigation-graph settings may be inflated by the strong implicit assumptions.
- Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
