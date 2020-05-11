@@ -86,11 +86,11 @@
         {%- if site.plainwhite.navigation -%}
           <nav class="navigation">
             <ul>
-              {% for link in site.plainwhite.navigation %}
+              {%- if site.plainwhite.navigation.CV -%}
                 <li>
-                  <a href="{{ link.url }}">{{ link.title }}</a>
+                  <a href="{{ site.plainwhite.navigation.CV }}">CV</a>
                 </li>
-              {% endfor %}
+              {%- endif -%}
             </ul>
           </nav>
         {%- endif -%}
