@@ -6,12 +6,11 @@ categories: DeepLearning ComputerVision VideoCaptioning
 ---
 
 
+![main](/assets/img/vtt_main.png)
 
 ```javascript
 
 ```
-
-![main](/assets/img/vtt_main.png)
 
 <div class="grid-wrapper">
   <div style="grid-column: span 3;">
