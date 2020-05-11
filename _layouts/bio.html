@@ -1,8 +1,126 @@
----
-layout: default
----
-<div class="bio-container">
-    <p align="justify">
-      The identification of syllables within phonetic sequences is known as syllabification. This task is thought to play an important role in natural language understanding, speech production, and the development of speech recognition systems. The concept of the syllable is cross-linguistic, though formal definitions are rarely agreed upon, even within a language. In response, data-driven syllabification methods have been developed to learn from syllabified examples. These methods often employ classical machine learning sequence labeling models. In recent years, recurrence-based neural networks have been shown to perform increasingly well for sequence labeling tasks such as named entity recognition (NER), part of speech (POS) tagging, and chunking. We present a novel approach to the syllabification problem which leverages modern neural network techniques. Our network is constructed with long short-term memory (LSTM) cells, a convolutional component, and a conditional random field (CRF) output layer. Existing syllabification approaches are rarely evaluated across multiple language families. To demonstrate cross-linguistic generalizability, we show that the network is competitive with state of the art systems in syllabifying English, Dutch, Italian, French, Manipuri, and Basque datasets.
-    </p>
-</div>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {%- include head.html -%}
+  </head>
+  <body>
+    <main class="container">
+      <section class="about">
+        <a href="/"><img src="{{ "/assets/photo.jpg" | relative_url }}" alt="{{ site.plainwhite.name }}"></a>
+        <h2 id="title">
+          <a href="/">{{ site.plainwhite.name }}</a>
+        </h2>
+        <p class="tagline">{{ site.plainwhite.tagline }}</p>
+        <ul class="social">
+          {%- if site.plainwhite.social_links.gplus -%}
+            <a href="https://scholar.google.com.sg/citations?user=RpWZqBoAAAAJ&hl=en&oi=ao">
+              <li>
+                <i class="icon-gplus"></i>
+              </li>
+            </a>
+          {%- endif -%}
+          {%- if site.plainwhite.social_links.github -%}
+            <a href="https://github.com/Sxx1995">
+              <li>
+                <i class="icon-github-circled-alt2"></i>
+              </li>
+            </a>
+          {%- endif -%}
+          {%- if site.plainwhite.social_links.linkedIn -%}
+            <a href="https://www.linkedin.com/in/翔熹-石-01996a155/">
+              <li>
+                <i class="icon-linkedin-squared"></i>
+              </li>
+            </a>
+          {%- endif -%}
+          {%- if site.plainwhite.social_links.twitter -%}
+            <a href="https://twitter.com/{{ site.plainwhite.social_links.twitter }}">
+              <li>
+                <i class="icon-twitter-squared"></i>
+              </li>
+            </a>
+          {%- endif -%}
+          {%- if site.plainwhite.social_links.instagram -%}
+            <a href="https://instagram.com/{{ site.plainwhite.social_links.instagram }}">
+              <li>
+                <i class="icon-instagram"></i>
+              </li>
+            </a>
+          {%- endif -%}
+          {%- if site.plainwhite.social_links.facebook -%}
+            <a href="https://facebook.com/{{ site.plainwhite.social_links.facebook }}">
+              <li>
+                <i class="icon-facebook"></i>
+              </li>
+            </a>
+          {%- endif -%}
+          {%- if site.plainwhite.social_links.youtube -%}
+            <a href="https://youtube.com/{{ site.plainwhite.social_links.youtube }}">
+              <li>
+                <i class="icon-youtube"></i>
+              </li>
+            </a>
+          {%- endif -%}
+          {%- if site.plainwhite.social_links.pinterest -%}
+            <a href="https://pinterest.com/{{ site.plainwhite.social_links.pinterest }}">
+              <li>
+                <i class="icon-pinterest"></i>
+              </li>
+            </a>
+          {%- endif -%}
+          {%- if site.plainwhite.social_links.dribbble -%}
+            <a href="https://dribbble.com/{{ site.plainwhite.social_links.dribbble }}">
+              <li>
+                <i class="icon-dribbble"></i>
+              </li>
+            </a>
+          {%- endif -%}
+          {%- if site.plainwhite.social_links.flickr -%}
+            <a href="https://flickr.com/{{ site.plainwhite.social_links.flickr }}">
+              <li>
+                <i class="icon-flickr"></i>
+              </li>
+            </a>
+          {%- endif -%}
+        </ul>
+        {%- if site.plainwhite.navigation -%}
+          <nav class="navigation">
+            <ul>
+              {%- if site.plainwhite.navigation.bio -%}
+                <li>
+                  <a href="{{ site.plainwhite.navigation.bio }}">Bio</a>
+                </li>
+              {%- endif -%}
+              {%- if site.plainwhite.navigation.homepage -%}
+                <li>
+                  <a href="{{ site.plainwhite.navigation.homepage }}">Homepage</a>
+                </li>
+              {%- endif -%}
+              {%- if site.plainwhite.navigation.CV -%}
+                <li>
+                  <a href="{{ site.plainwhite.navigation.CV }}">Resume</a>
+                </li>
+              {%- endif -%}
+            </ul>
+          </nav>
+        {%- endif -%}
+
+        <p>&copy;
+          {{ "now" | date: "%Y" }}</p>
+      </section>
+      <section class="content">
+              The identification of syllables within phonetic sequences is known as syllabification. This task is thought to play an important role in natural language understanding, speech production, and the development of speech recognition systems. The concept of the syllable is cross-linguistic, though formal definitions are rarely agreed upon, even within a language. In response, data-driven syllabification methods have been developed to learn from syllabified examples. These methods often employ classical machine learning sequence labeling models. In recent years, recurrence-based neural networks have been shown to perform increasingly well for sequence labeling tasks such as named entity recognition (NER), part of speech (POS) tagging, and chunking. We present a novel approach to the syllabification problem which leverages modern neural network techniques. Our network is constructed with long short-term memory (LSTM) cells, a convolutional component, and a conditional random field (CRF) output layer. Existing syllabification approaches are rarely evaluated across multiple language families. To demonstrate cross-linguistic generalizability, we show that the network is competitive with state of the art systems in syllabifying English, Dutch, Italian, French, Manipuri, and Basque datasets.
+      </section>
+    </main>
+    {%- if site.plainwhite.analytics_id -%}
+      <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.plainwhite.analytics_id }}"></script>
+      <script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', '{{ site.plainwhite.analytics_id }}');
+	</script>
+    {%- endif -%}
+  </body>
+</html>
