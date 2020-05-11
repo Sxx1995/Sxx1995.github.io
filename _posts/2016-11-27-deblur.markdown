@@ -9,10 +9,10 @@ categories: ImageProcessing ImageDebluring
   <div style="grid-column: span 3;">
     <p class="blue" style="margin-top:0px; margin-bottom:0px;">
       <b>Xiangxi Shi</b>
-      &nbsp;&nbsp; <p>Kai Kang</p>
+      &nbsp;&nbsp; <a>Kai Kang</a>
       &nbsp;&nbsp; <a href="http://staff.ustc.edu.cn/~forrest/" class="author-link">Yang Cao</a>
     </p>
-    <p style="margin-top:0px;"><i>ACM-MM, 2019</i></p>
+    <p style="margin-top:0px;"><i>VCIP, 2016</i></p>
     <p align="justify">
 This paper presents a new method for estimating the optical flow of image sequences while considering the blur effect. In fact, the blur in input images can degrade the quality of optical flow, because it leads to ambiguities of pixel-match. Our method begins with an initial optical flow. Then two steps are performed iteratively until convergence, 1) the blur kernel is estimated using the information from optical flow; 2) the optical flow is estimated considering the blur kernel. Various experimental results verify the effectiveness of our method.
     </p>
