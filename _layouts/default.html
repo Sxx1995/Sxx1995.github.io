@@ -86,6 +86,10 @@
         {%- if site.plainwhite.navigation -%}
           <nav class="navigation">
             <ul>
+              {%- if site.plainwhite.navigation.bio -%}
+                <li>
+                  <a href="{{ site.plainwhite.navigation.homepage }}">Bio</a>
+                </li>
               {%- if site.plainwhite.navigation.homepage -%}
                 <li>
                   <a href="{{ site.plainwhite.navigation.homepage }}">Homepage</a>
