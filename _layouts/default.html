@@ -86,9 +86,14 @@
         {%- if site.plainwhite.navigation -%}
           <nav class="navigation">
             <ul>
+              {%- if site.plainwhite.navigation.homepage -%}
+                <li>
+                  <a href="{{ site.plainwhite.navigation.homepage }}">Homepage</a>
+                </li>
+              {%- endif -%}
               {%- if site.plainwhite.navigation.CV -%}
                 <li>
-                  <a href="{{ site.plainwhite.navigation.CV }}">CV</a>
+                  <a href="{{ site.plainwhite.navigation.CV }}">Resume</a>
                 </li>
               {%- endif -%}
             </ul>
