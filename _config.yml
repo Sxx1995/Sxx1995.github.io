@@ -40,7 +40,7 @@ plainwhite:
     #   instance: example.com
     # - username: jekyll2
     #   instance: example.com
-  content:
+  navigation:
     CV: "/assets/CV.pdf"
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
