@@ -42,7 +42,7 @@ plainwhite:
     #   instance: example.com
   navigation:
     homepage: "/"
-    bio: "/_layouts/bio.html"
+    bio: "/autobiography/2000/01/01/bio.html"
     CV: "/assets/CV.pdf"
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
