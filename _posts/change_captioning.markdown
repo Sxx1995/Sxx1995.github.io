@@ -4,7 +4,7 @@ title:  "Finding it at another side: A viewpoint-adapted matching encoder for ch
 date:   2020-13-11
 categories: DeepLearning VideoCaptioning ChangeCaptioning ReinforcementLearning
 ---
-![main](/assets/img/changecaptioning.jpeg)
+![main](/assets/img/changecaptioning.PNG)
 
 
 <div class="grid-wrapper">
