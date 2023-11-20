@@ -2,7 +2,7 @@
 layout: post
 title:  "Remember What You have drawn: Semantic Image Manipulation with Memory"
 date:   2021-07-27
-categories: DeepLearning VideoCaptioning ChangeCaptioning ReinforcementLearning
+categories: DeepLearning ImageEditing ImageGeneration GAN MetaClass
 ---
 
 ![main](/assets/img/editing.PNG)
