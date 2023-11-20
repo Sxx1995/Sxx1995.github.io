@@ -23,8 +23,8 @@ Change Captioning is a task that aims to describe the difference between images 
     </p>
     <div class="center">
       <p>
-        <a class="link" href="https://dl.acm.org/doi/pdf/10.1145/3343031.3351060">Paper</a>
-      | <a class="link" href="https://scholar.googleusercontent.com/scholar.bib?q=info:phndiI9iblAJ:scholar.google.com/&output=citation&scisdr=CgVaNFdhELbVx1mKsfs:AAGBfm0AAAAAXrmPqfvesnF0ye3hky2G9TsvPW2hssWE&scisig=AAGBfm0AAAAAXrmPqcFEZO8UveTfzfeZfLpjZiGOODMP&scisf=4&ct=citation&cd=-1&hl=en">Bibtex</a>
+        <a class="link" href="https://arxiv.org/pdf/2009.14352.pdf">Paper</a>
+      | <a class="link" href="https://scholar.googleusercontent.com/scholar.bib?q=info:BcpEr2lmgUkJ:scholar.google.com/&output=citation&scisdr=ClEwqH7BEJLQw8cCyfk:AFWwaeYAAAAAZVsE0fm2G549-ZNw-6XBZe1j27Y&scisig=AFWwaeYAAAAAZVsE0ShVp3Ogm1IMbVBvFV0L5iQ&scisf=4&ct=citation&cd=-1&hl=en">Bibtex</a>
       </p>
     </div>
   </div>
