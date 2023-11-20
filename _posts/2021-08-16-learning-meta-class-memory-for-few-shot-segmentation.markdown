@@ -5,7 +5,7 @@ date:   2021-08-16
 categories: DeepLearning VideoCaptioning ChangeCaptioning ReinforcementLearning
 ---
 
-![main](/assets/img/seq.PNG)
+![main](/assets/img/seg.PNG)
 
 
 <div class="grid-wrapper">
