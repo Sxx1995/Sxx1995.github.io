@@ -8,7 +8,7 @@ categories: Autobiography
 <div class="grid-wrapper">
   <div style="grid-column: span 3;">
     <p align="justify">
-  Hi! My name is Xiangxi Shi. I graduated from University of Science and Technology of China in 2017 and my major was Automation. I am currently a project officer in Nanyang Technological University under the Prof. Jianfei Cai's supervision and will join Dr. Stefan Lee's group at Oregon State University. I am interested in text-vision tasks based on deep learning methods to brigde the gap between human's knowledge and real world through visiual sources to achieve a more human-like aritfical intelligence system. Currently, I am forced on video and image captioning, image generation and graph generation tasks.
+  Hi! My name is Xiangxi Shi. I am currently a PhD student in Oregon State University working with Dr. Stefan Lee's. I am interested in Out-of-Distribution Detection, Vision-Language Navigation, and 3D visual groudning.
     </p>
   </div>
 </div>
