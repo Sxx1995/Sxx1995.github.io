@@ -21,8 +21,8 @@ Referring expressions for visual objects often include descriptions of relative 
     </p>
     <div class="center">
       <p>
-        <a class="link" href="https://arxiv.org/abs/2108.02958">Paper</a>
-      | <a class="link" href="https://scholar.googleusercontent.com/scholar.bib?q=info:C15V6KqIcTcJ:scholar.google.com/&output=citation&scisdr=ClEwqH7BEJLQw8cO3wQ:AFWwaeYAAAAAZVsIxwT8UdATP8k5KHw61CuCzEM&scisig=AFWwaeYAAAAAZVsIxyzU1R6vMSffWxG4-gMSqcw&scisf=4&ct=citation&cd=-1&hl=en">Bibtex</a>
+        <a class="link" href="">Paper</a>
+      | <a class="link" href="">Bibtex</a>
       </p>
     </div>
   </div>
