@@ -15,7 +15,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Xiangxi Shi
-  tagline: Hey, dude! How's your model goes today? :)
+  tagline: Hey, dude! How's your model today? :)
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
