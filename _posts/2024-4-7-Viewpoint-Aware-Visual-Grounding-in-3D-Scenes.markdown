@@ -5,7 +5,7 @@ date:   2024-4-7
 categories: DeepLearning VisualGroudning PointCloud
 ---
 
-![main](/assets/img/vg.PNG)
+![main](/assets/img/vg.png)
 
 
 <div class="grid-wrapper">
