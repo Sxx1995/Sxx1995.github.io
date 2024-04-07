@@ -11,10 +11,9 @@ categories: DeepLearning VisualGroudning PointCloud
 <div class="grid-wrapper">
   <div style="grid-column: span 3;">
     <p class="blue" style="margin-top:0px; margin-bottom:0px;">
-      &nbsp;&nbsp; <a href="https://wu-zhonghua.github.io/" class="author-link">Zhonghua Wu</a>
       <b>Xiangxi Shi</b>
-      &nbsp;&nbsp; <a href="https://guosheng.github.io/" class="author-link">Guosheng Lin</a>
-      &nbsp;&nbsp; <a href="https://www.ntu.edu.sg/home/asjfcai/" class="author-link">Jianfei Cai</a>
+      &nbsp;&nbsp; <a href="https://wu-zhonghua.github.io/" class="author-link">Zhonghua Wu</a>
+      &nbsp;&nbsp; <a href="https://web.engr.oregonstate.edu/~leestef/" class="author-link">Stefan Lee</a>
     </p>
     <p style="margin-top:0px;"><i>CVPR 2024</i></p>
     <p align="justify">
