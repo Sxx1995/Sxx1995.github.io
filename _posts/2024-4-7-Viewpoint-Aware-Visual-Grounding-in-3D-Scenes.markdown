@@ -2,7 +2,7 @@
 layout: post
 title:  "Viewpoint-Aware Visual Grounding in 3D Scenes"
 date:   2024-4-7
-categories: DeepLearning VisualGroudning PointCloud
+categories: DeepLearning VisualGroudning PointCloud CVPR
 ---
 
 ![main](/assets/img/vg.png)
