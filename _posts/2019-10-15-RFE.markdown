@@ -2,7 +2,7 @@
 layout: post
 title:  "Watch It Twice: Video Captioning with a Refocused Video Encoder"
 date:   2019-10-15
-categories: DeepLearning ComputerVision VideoCaptioning
+categories: DeepLearning ComputerVision VideoCaptioning ACM-MM
 ---
 
 ![main](/assets/img/RVE_intro.jpeg)
