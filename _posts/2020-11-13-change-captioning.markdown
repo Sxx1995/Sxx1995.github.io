@@ -2,7 +2,7 @@
 layout: post
 title:  "Finding it at another side: A viewpoint-adapted matching encoder for change captioning"
 date:   2020-11-13
-categories: DeepLearning VideoCaptioning ChangeCaptioning ReinforcementLearning
+categories: DeepLearning VideoCaptioning ChangeCaptioning ReinforcementLearning ECCV
 ---
 
 ![main](/assets/img/changecaptioning.PNG)
