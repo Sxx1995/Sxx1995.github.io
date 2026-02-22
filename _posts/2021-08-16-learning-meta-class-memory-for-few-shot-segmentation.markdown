@@ -2,7 +2,7 @@
 layout: post
 title:  "Learning Meta-class Memory for Few-Shot Semantic Segmentation"
 date:   2021-08-16
-categories: DeepLearning FewShot Segmentation
+categories: DeepLearning FewShot Segmentation ICCV
 ---
 
 ![main](/assets/img/seg.PNG)
