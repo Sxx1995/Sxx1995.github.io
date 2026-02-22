@@ -2,7 +2,7 @@
 layout: post
 title:  "Efficient Reasoning with Hidden Thinking"
 date:   2025-01-31
-categories: DeepLearning Multimodal Reasoning EfficientInference CoT
+categories: LLM MLLM Multimodal Reasoning EfficientInference CoT
 ---
 
 <!-- Optional header image: add /assets/img/heima.png, or delete the line below -->
