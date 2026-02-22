@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Bio"
+date: 2000-01-01
+categories: Autobiography
+---
+
+Hi! My name is Xiangxi Shi. I am currently a PhD student at Oregon State University working with Professor Stefan Lee. I am interested in Vision-Language Navigation, 3D visual grounding, and Out-of-Distribution Detection.
